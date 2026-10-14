@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Garv Ghildiyal
 
-### AI & Cybersecurity Undergraduate @ IIT Patna | Python | DSA | OOP | Machine Learning Techniques | Class of 2029
+### AI & Cybersecurity Sophomore @ IIT Patna | Python | DSA | OOP | Machine Learning Techniques | Class of 2029
 
 I'm a **BS Sophomore in AI and Cybersecurity** at **Indian Institute of Technology (IIT), Patna**.
 
@@ -16,7 +16,6 @@ I am currently focused on improving my **Python**, **Data Structures & Algorithm
 - 🔐 Learning **Cybersecurity** foundations
 - 🤖 Exploring **AI / Machine Learning**
 - 🏗️ Building projects and participating in hackathons
-- 📚 Continuously learning and building projects
 
 ---
 
@@ -31,33 +30,26 @@ I am currently focused on improving my **Python**, **Data Structures & Algorithm
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Problem Solving
-- MySQL
+
 
 ### 🛠️ Tools & Technologies
 
 - Git
 - GitHub
 - Docker
+- VS Code
 
 ### 🤖 Currently Exploring
-
-- Artificial Intelligence & Machine Learning
-- Cybersecurity
-- Web Development & App Design
-- Database Management
-- Computer Organisation & Operating Systems
-
----
-
-## 📚 Currently Learning
 
 - Data Structures & Algorithms
 - Python
 - Artificial Intelligence & Machine Learning
 - Cybersecurity Foundations
 - Problem Solving
+- Object Oriented Programming
 
 ---
+
 
 ## 🚀 Projects
 
@@ -100,7 +92,7 @@ Real-time safety app for sending **silent help signals** within private Circles,
 
 **Tools & Technologies:** `Node.js` • `Express` • `Socket.io` • `SQLite` • `Web Audio API` • `Zerops` • `Google Antigravity`
 
-**Status:** Built for the Zerops Challenge Hackathon, deployed live with HTTPS
+**Status:** Built for the Zerops Challenge Hackathon
 
 🔗 [GitHub](https://github.com/garvghildiyal-lab/lantern-app) • [Live Demo](https://app-2aa9-3000.prg1.zerops.app/)
 
@@ -108,10 +100,9 @@ Real-time safety app for sending **silent help signals** within private Circles,
 
 ## 🏆 Certifications & Hackathons
 
-- Agents of SigNoz Hackathon
-- Zerops Challenge Hackathon
-- 5-Day AI Agents Intensive (Vibe Coding)
-- Getting Started with Cybersecurity
+- Agents of SigNoz Hackathon by WeMakeDevs and Signoz
+- The Zerops Challenge Hackathon by WeMakeDevs and Zerops
+- Getting Started with Cybersecurity by IBM SkillsBuild
 
 ---
 
@@ -121,15 +112,6 @@ Real-time safety app for sending **silent help signals** within private Circles,
 - Strengthen Data Structures & Algorithms
 - Learn industry-level automation
 - Go deeper into AI and Cybersecurity
-- Prepare for internships and software development opportunities
-
----
-
-## 📈 My Learning Journey
-
-> Learn → Build → Deploy → Improve → Repeat 🔁
-
-I believe building real projects and shipping them live is the best way to learn.
 
 ---
 
