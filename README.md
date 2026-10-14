@@ -1,91 +1,145 @@
-## Hi there 👋
+# 👋 Hi, I'm Garv Ghildiyal
 
-I'm Garv Ghildiyal
-AI & Cybersecurity Undergraduate @ IIT Patna | Python | DSA | OOP | Machine Learning Techniques| Class of 2029
-I'm a BS Sophomore in AI and Cybersecurity at IIT Patna (Class of 2029).
+### AI & Cybersecurity Undergraduate @ IIT Patna | Python | DSA | OOP | Machine Learning Techniques | Class of 2029
 
-I'm focused on learning about Artificial Intelligence, Machine Learning, Cybersecurity , while sharpening my Python and problem-solving skills.
+I'm a **BS Sophomore in AI and Cybersecurity** at **Indian Institute of Technology (IIT), Patna**.
 
-🚀 About Me
-🎓 BS Sophomore in AI & Cybersecurity, IIT Patna (2025–2029)
-🐍 Programming in Python
-🧠 Strengthening Data Structures & Algorithms , Object Oriented Programming and problem solving
-🔐 Learning Cybersecurity foundations
-🤖 Exploring AI / Machine Learning
-🏗️ Building projects and participating in hackathons
-💻 Skills
-👨‍💻 Programming
-Python
-🧠 Core Computer Science
-Data Structures & Algorithms
-Object-Oriented Programming (OOP)
-Problem Solving
-MySQL
-🤖 Currently Exploring and Goals
-Artificial Intelligence & Machine Learning
-Cybersecurity
-Web Development & App Design
-Database Management
-Computer Organisation & Operating Systems
-🛠️ Tools
-Git
-GitHub
-Docker
-🚀 Projects
-🔍 TraceMind AI
-AI-powered observability platform that unifies tracing, metrics, and logs, with an AI Copilot for real-time incident debugging.
+I am currently focused on improving my **Python**, **Data Structures & Algorithms**, and problem-solving skills while exploring **Artificial Intelligence, Machine Learning, and Cybersecurity**.
 
-Key Features:
+---
 
-📊 Real-time system monitoring: health, request activity, response time, and errors
-🔍 Distributed traces, metrics, and logs collected via OpenTelemetry and analysed in SigNoz
-🤖 AI Copilot for queries like "Why is latency increasing?"
-📈 React dashboard with KPI cards, response-time charts, incident timeline, and AI analysis panel
-🧪 Built-in demo and error-simulation endpoints for testing observability workflows
-Tools and Technologies: React, FastAPI, Python, OpenTelemetry, SigNoz, Docker, ChatGPT
+## 🚀 About Me
 
-🔗 GitHub • Live Demo
+- 🎓 BS Sophomore in AI & Cybersecurity, IIT Patna 
+- 🐍 Programming in **Python**
+- 🧠 Strengthening **Data Structures & Algorithms**, **Object-Oriented Programming**, and problem solving
+- 🔐 Learning **Cybersecurity** foundations
+- 🤖 Exploring **AI / Machine Learning**
+- 🏗️ Building projects and participating in hackathons
+- 📚 Continuously learning and building projects
 
-🔦 Lantern
-Real-time safety app for sending silent help signals within private Circles, built with Socket.io and the Web Audio API.
+---
 
-Key Features:
+## 💻 Skills
 
-🏮 One-tap help signal
-🔐 Private Circles joined with a 6-character invite code (no signup needed)
-⚡ Real-time, named alerts delivered instantly via Socket.io
-🔊 Alert sound generated in code with the Web Audio API (no audio files)
-🤝 Circle-wide "I'm here" acknowledgement that stops the alert on every device
-🌗 Light/dark themes and a responsive, mobile-first UI
-Tools and Technologies: Node.js, Express, Socket.io, SQLite, Web Audio API, Zerops, Google Antigravity
+### 👨‍💻 Programming Languages
 
-🔗 GitHub • Live Demo
+- Python
 
-🏆 Certifications & Hackathons
-Agents of SigNoz Hackathon
-Zerops Challenge Hackathon
-Getting Started with Cybersecurity
+### 🧠 Core Computer Science
 
-🎯 Goals
-Build a strong project portfolio
-Learn industry-level automation
-Go deeper into AI and Cybersecurity
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- MySQL
 
-🤝 Let's Connect
-💼 LinkedIn - https://www.linkedin.com/in/garv-ghildiyal-278b1a37a/
+### 🛠️ Tools & Technologies
 
-Open for collaborations on projects and connecting with fellow mates
-<!--
-**garvghildiyal-lab/garvghildiyal-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Git
+- GitHub
+- Docker
 
-Here are some ideas to get you started:
+### 🤖 Currently Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Web Development & App Design
+- Database Management
+- Computer Organisation & Operating Systems
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Python
+- Artificial Intelligence & Machine Learning
+- Cybersecurity Foundations
+- Problem Solving
+
+---
+
+## 🚀 Projects
+
+### 🔍 TraceMind AI — AI-Powered SRE Assistant
+
+AI-powered observability platform that unifies **tracing, metrics, and logs**, with an **AI Copilot** for real-time incident debugging.
+
+**Key Features:**
+
+- 📊 Real-time system monitoring: health, request activity, response time, and errors
+- 🔍 Distributed traces, metrics, and logs collected via **OpenTelemetry** and analysed in **SigNoz**
+- 🤖 AI Copilot for queries like *"Why is latency increasing?"*
+- 📈 React dashboard with KPI cards, response-time charts, incident timeline, and AI analysis panel
+- 🧪 Built-in demo and error-simulation endpoints for testing observability workflows
+
+**Concepts Used:** `Observability` • `Distributed Tracing` • `OpenTelemetry` • `REST APIs` • `Full-Stack Architecture` • `AI-assisted Incident Analysis` • `Containerization`
+
+**Tools & Technologies:** `React` • `FastAPI` • `Python` • `OpenTelemetry` • `SigNoz` • `Docker` • `ChatGPT`
+
+**Status:** Built for the Agents of SigNoz Hackathon
+
+🔗 [GitHub](https://github.com/garvghildiyal-lab/tracemind-ai-signoz) • [Live Demo](https://tracemind-ai-signoz.vercel.app)
+
+---
+
+### 🔦 Lantern — Silent Help Signal App
+
+Real-time safety app for sending **silent help signals** within private Circles, built with **Socket.io** and the **Web Audio API**.
+
+**Key Features:**
+
+- 🏮 One-tap help signal
+- 🔐 Private Circles joined with a 6-character invite code (no signup needed)
+- ⚡ Real-time, named alerts delivered instantly via **Socket.io**
+- 🔊 Alert sound generated in code with the **Web Audio API** (no audio files)
+- 🤝 Circle-wide "I'm here" acknowledgement that stops the alert on every device
+- 🌗 Light/dark themes and a responsive, mobile-first UI
+
+**Concepts Used:** `Real-time Communication` • `WebSockets` • `Room-based Broadcasting` • `REST API Design` • `Event-driven Architecture` • `Web Audio API` • `Iterative Build–Deploy–Test Workflow`
+
+**Tools & Technologies:** `Node.js` • `Express` • `Socket.io` • `SQLite` • `Web Audio API` • `Zerops` • `Google Antigravity`
+
+**Status:** Built for the Zerops Challenge Hackathon, deployed live with HTTPS
+
+🔗 [GitHub](https://github.com/garvghildiyal-lab/lantern-app) • [Live Demo](https://app-2aa9-3000.prg1.zerops.app/)
+
+---
+
+## 🏆 Certifications & Hackathons
+
+- Agents of SigNoz Hackathon
+- Zerops Challenge Hackathon
+- 5-Day AI Agents Intensive (Vibe Coding)
+- Getting Started with Cybersecurity
+
+---
+
+## 🎯 Goals
+
+- Build a strong project portfolio
+- Strengthen Data Structures & Algorithms
+- Learn industry-level automation
+- Go deeper into AI and Cybersecurity
+- Prepare for internships and software development opportunities
+
+---
+
+## 📈 My Learning Journey
+
+> Learn → Build → Deploy → Improve → Repeat 🔁
+
+I believe building real projects and shipping them live is the best way to learn.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/garv-ghildiyal-278b1a37a/)
+- 🐙 [GitHub](https://github.com/garvghildiyal-lab)
+
+I'm always open to collaborating on projects and connecting with fellow builders and students.
+
+---
+
+⭐ **Thanks for visiting my profile!**
